@@ -49,3 +49,5 @@ public class PolicyFunctionsExtension implements ServiceExtension {
         policyEngine.registerFunction(ContractNegotiationPolicyContext.class, Permission.class, LOCATION_CONSTRAINT_KEY, new LocationConstraintFunction(monitor));
     }
 }
+
+// 4bfe636b-e000-4eef-8d09-7b33c18dda44

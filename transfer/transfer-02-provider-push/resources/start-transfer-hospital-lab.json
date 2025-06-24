@@ -1,0 +1,11 @@
+{
+  "@context": {
+    "@vocab": "https://w3id.org/edc/v0.0.1/ns/"
+  },
+  "@type": "TransferRequestDto",
+  "connectorId": "provider-hospital",
+  "counterPartyAddress": "http://localhost:41194/protocol",
+  "contractId": "a240ad9f-3ed9-473b-8a6d-5d3f5d187444",
+  "protocol": "dataspace-protocol-http",
+  "transferType": "HttpData-PULL"
+}

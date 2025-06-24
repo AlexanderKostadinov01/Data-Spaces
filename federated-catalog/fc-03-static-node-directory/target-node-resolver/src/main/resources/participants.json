@@ -1,8 +1,11 @@
-[
-  {
-    "name": "https://w3id.org/edc/v0.0.1/ns/",
-    "id": "provider",
-    "url": "http://localhost:19194/protocol",
-    "supportedProtocols": ["dataspace-protocol-http"]
-  }
-]
+[{
+  "name": "https://w3id.org/edc/v0.0.1/ns/",
+  "id": "provider-hospital",
+  "url": "http://localhost:41194/protocol",
+  "supportedProtocols": ["dataspace-protocol-http"]
+},{
+  "name": "https://w3id.org/edc/v0.0.1/ns/",
+  "id": "provider-dental",
+  "url": "http://localhost:42194/protocol",
+  "supportedProtocols": ["dataspace-protocol-http"]
+}]

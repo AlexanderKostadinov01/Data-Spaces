@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://w3id.org/edc/v0.0.1/ns/"
+  },
+  "@id": "dental-asset-001",
+  "properties": {
+    "name": "dental patient records",
+    "contenttype": "application/json"
+  },
+  "dataAddress": {
+  "type": "HttpData",
+  "baseUrl": "http://localhost:8000",
+  "proxyPath": "true"
+  }
+}

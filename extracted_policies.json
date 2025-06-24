@@ -1,0 +1,16 @@
+[
+  {
+    "@id": "RDE=:ZGVudGFsLWFzc2V0LTAwMQ==:ZWQ4OGZmZWItMjhmNS00ZmY1LTgyZjktZjFkOWZmNmM5ODhm",
+    "@type": "odrl:Offer",
+    "odrl:permission": [],
+    "odrl:prohibition": [],
+    "odrl:obligation": []
+  },
+  {
+    "@id": "SDE=:aG9zcGl0YWwtYXNzZXQtMDAx:OWY2MTQwZjUtM2E4My00MzI1LWIxOWUtMWYzNWRlMjQ5Nzk1",
+    "@type": "odrl:Offer",
+    "odrl:permission": [],
+    "odrl:prohibition": [],
+    "odrl:obligation": []
+  }
+]
