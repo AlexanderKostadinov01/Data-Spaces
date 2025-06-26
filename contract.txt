@@ -1,1 +1,19 @@
-
+{
+  "@type": "ContractNegotiation",
+  "@id": "41752c0a-f11e-42b5-8c59-3b914e04e931",
+  "type": "CONSUMER",
+  "protocol": "dataspace-protocol-http",
+  "state": "FINALIZED",
+  "counterPartyId": "provider-hospital",
+  "counterPartyAddress": "http://localhost:40194/protocol",
+  "callbackAddresses": [],
+  "createdAt": 1750965183569,
+  "assetId": "lab-asset-001",
+  "contractAgreementId": "0901d9b3-ec47-474b-bca2-47ef26554eb8",
+  "correlationId": "3e698f54-3fa9-4e56-b60d-40d72c2e4726",
+  "@context": {
+    "@vocab": "https://w3id.org/edc/v0.0.1/ns/",
+    "edc": "https://w3id.org/edc/v0.0.1/ns/",
+    "odrl": "http://www.w3.org/ns/odrl/2/"
+  }
+}
