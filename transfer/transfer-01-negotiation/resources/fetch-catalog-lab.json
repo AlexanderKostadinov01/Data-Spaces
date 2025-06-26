@@ -2,6 +2,6 @@
   "@context": {
     "@vocab": "https://w3id.org/edc/v0.0.1/ns/"
   },
-  "counterPartyAddress": "http://localhost:41194/protocol",
+  "counterPartyAddress": "http://localhost:40194/protocol",
   "protocol": "dataspace-protocol-http"
 }

@@ -5,7 +5,7 @@
   "@type": "TransferRequestDto",
   "connectorId": "provider-hospital",
   "counterPartyAddress": "http://localhost:40194/protocol",
-  "contractId": "{placeholder}",
+  "contractId": "0901d9b3-ec47-474b-bca2-47ef26554eb8",
   "protocol": "dataspace-protocol-http",
   "transferType": "HttpData-PUSH",
   "dataDestination": {
